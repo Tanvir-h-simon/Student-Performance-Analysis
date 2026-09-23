@@ -109,11 +109,5 @@ Data-Science-Student-Performance/
 - **Statistical Tests:** scipy.stats
 - **Machine Learning:** scikit-learn (LinearRegression, DecisionTreeRegressor, MLPRegressor)
 
-## Project Status
-✅ Complete - Ready for submission
-
-## Author
-WIA1007 Data Science Course Project
-
 ## License
 This project is for educational purposes only.
